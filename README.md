@@ -1,119 +1,144 @@
 <div align="center">
 
-<!-- Animated Header / Typing SVG -->
-<a href="https://github.com/nandkishorrathodk-art">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=900&height=70&lines=NANDKISHOR+RATHOD;AI+Offensive+Security+Architect;Creator+of+SONIC+A-SEA;Autonomous+Cyber+Workstation+Systems" alt="Typing SVG" />
-</a>
+<!-- Cyber Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:091a28,100:050d1a&height=260&section=header&text=NANDKISHOR%20RATHOD&fontSize=48&fontColor=70a5fd&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Developer&descAlignY=62&descSize=18&descColor=a9b1d6" width="100%" alt="Nandkishor Rathod Header" />
 
-<p align="center">
-  <b>Systems & AI Security Engineer building SONIC A-SEA — an Autonomous Self-Evolving Penetration Architect operating its own dedicated graphical Linux workstation and cognitive agentic mind.</b>
-</p>
+<br>
 
-<!-- Dynamic Live Stats Banner -->
+**Software Engineer & AI Developer building autonomous agents, modern web applications, and intelligent systems.**
+
+<br>
+
+<!-- Animated Cyber Typing Terminal -->
 <a href="https://github.com/nandkishorrathodk-art">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=50&lines=Dual-Plane+Cyber+Workstation+%C2%B7+X11+GUI+Perception+%C2%B7+Headless+Terminal+Plane;Zero+Scripted+Heuristics+%C2%B7+Empirical+Falsification+%C2%B7+Sealed+Safety+Envelope" alt="Sub-typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=1050&height=80&lines=Software+Engineer+%C2%B7+AI+Developer;Building+Next-Gen+Full-Stack+Web+Applications;Developing+Autonomous+AI+Systems+Operating+Like+A+Human" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- Badges Row -->
-<p align="center">
-  <a href="https://github.com/nandkishorrathodk-art"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:nandkishorrathodk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=nandkishorrathodk-art&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Status-Building_ASI-000000?style=for-the-badge&logo=target&logoColor=00FF66" alt="Status"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandkishorrathodk-art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandkishorrathodk@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=nandkishorrathodk-art&style=for-the-badge&color=1a1b27&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/nandkishorrathodk-art)
 
 </div>
 
 ---
-
-### ⚡ Executive Summary: Architecting Autonomous Offensive Intelligence
-
-I design and build **Autonomous Self-Evolving AI Systems (ASI)** that bridge high-level cognitive reasoning with real bare-metal and containerized computer execution. 
-
-My flagship system is **SONIC A-SEA** (*Autonomous Self-Evolving Penetration Architect*):
-- 🖥️ **Full Computer Agency**: Operates concurrently across a graphical desktop plane (X11 Display `:99`, x11vnc, noVNC `:6080`, multimodal vision grounding) and a high-throughput headless operator terminal.
-- 🧠 **Persistent Cognitive Mind**: Survives restarts with persistent SQLite-backed affect (`curiosity_drive`, `focus`, `satiety`), vector embeddings, and Neo4j knowledge graph memory.
-- 🛠️ **Autonomous Toolsmith & Method Lab**: Autonomously authors specialized Python test harnesses and invents novel security methodologies on-the-fly rather than relying on static exploit libraries.
-- 🔬 **Empirical Falsification**: Zero success-by-decree. Every finding is backed by verifiable in-sandbox reproduction receipts.
-- 🛡️ **Cryptographic Safety**: Fail-closed SHA-256 sealed policies (`SealedActionPolicy`) that isolate targets and prevent host escapes.
-
----
-
-### 🏗️ Systems Architecture at a Glance
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                              SONIC A-SEA COGNITIVE BEING                               │
-│              Persistent Mind │ Vector Embeddings │ Attack Knowledge Graph              │
-│                     Novelty Engine │ Autonomous Curiosity Loop                         │
-└───────────────────────────────────────────┬────────────────────────────────────────────┘
-                                            │
-                                            ▼
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                              STRATEGIC ORCHESTRATION LAYER                             │
-│                  BossAgent (Deep Think) ↔ Dynamic TaskGraph Dependency Wave            │
-│                       6+1 Specialist Swarm (Network, Web, API, Auth, Cloud)            │
-└───────────────────────────────────────────┬────────────────────────────────────────────┘
-                                            │
-                                            ▼
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                           DUAL-PLANE DOCKER CYBER WORKSTATION                          │
-│                                                                                        │
-│  🖥️ Workstation Application Plane (GUI)       💻 Operator Sandbox Plane (Headless)     │
-│  - Virtual X11 Display (:99)                  - Non-graphical high-throughput terminal  │
-│  - Multimodal Vision Grounding                - Custom Python probes & AST auditing    │
-│  - Real-time VNC Streaming (:6080)            - Toolsmith compilation & execution      │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🛠️ Technical Arsenal & Core Stack
 
 <div align="center">
 
-#### Languages & Core Runtime
-[![Languages](https://skillicons.dev/icons?i=py,ts,js,rust,bash,c,cpp,html,css&theme=dark)](https://skillicons.dev)
-
-#### AI, Multimodal & Cognitive Infrastructure
-[![AI & Frameworks](https://skillicons.dev/icons?i=pytorch,fastapi,nextjs,react,tailwind,nodejs&theme=dark)](https://skillicons.dev)
-
-#### Systems, Containers & Databases
-[![Infra & DB](https://skillicons.dev/icons?i=docker,linux,ubuntu,redis,postgres,sqlite,git,github,githubactions&theme=dark)](https://skillicons.dev)
+`Python · TypeScript · JavaScript · Rust · C++` · `React · Next.js · FastAPI` · `Docker · Linux · Git`
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### ⚡ About Me
+
+Software Engineer and AI Developer passionate about building intelligent tools, autonomous agents, and scalable applications.
+
+Currently developing **SONIC** — a private project where an AI operates a computer just like a human.
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Building
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&width=1050&height=30&lines=%F0%9F%9F%A2+SONIC+%E2%80%94+Private+project%3A+AI+operating+a+computer+like+a+human;%F0%9F%9F%A2+Modern+Full-Stack+Web+Applications+%28Next.js+%2B+FastAPI%29;%F0%9F%9F%A2+High-Performance+Backend+APIs+%26+Microservices)](https://github.com/nandkishorrathodk-art)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+#### Languages
+
+[![Languages](https://skillicons.dev/icons?i=py,ts,js,rust,cpp,c,bash,html,css&theme=dark)](https://skillicons.dev)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+#### Frameworks & Full-Stack
+
+[![Frameworks](https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+#### Databases & DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,linux,ubuntu,git,github,githubactions&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30"> AI & Developer Tools
+
+<div align="center">
+
+[![Claude](https://img.shields.io/badge/Claude-Anthropic-d4a574?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+[![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![Cursor](https://img.shields.io/badge/Cursor-IDE-00D1FF?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
+[![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/nandkishorrathodk-art">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandkishorrathodk-art&show_icons=true&theme=radical&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandkishorrathodk-art&theme=radical&hide_border=true&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nandkishorrathodk-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/nandkishorrathodk-art">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishorrathodk-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6&langs_count=10" />
 </a>
 
 <br>
 
 <a href="https://github.com/nandkishorrathodk-art">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishorrathodk-art&layout=compact&theme=radical&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandkishorrathodk-art&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=a9b1d6&sideLabels=a9b1d6&currStreakNum=70a5fd&sideNums=70a5fd&dates=545c7e" />
+</a>
+
+<br>
+
+<a href="https://github.com/nandkishorrathodk-art">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandkishorrathodk-art&bg_color=0d1117&color=a9b1d6&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true" width="95%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandkishorrathodk-art&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </a>
 
 </div>
 
 ---
 
-### 🤝 Connect & Inquiries
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nandkishorrathodk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandkishorrathodk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandkishorrathodk-art)
+<!-- Cyber Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:091a28,100:050d1a&height=120&section=footer" width="100%" alt="Footer" />
 
-<sub><b>"The future of security belongs to autonomous architectures that think freely, act empirically, and evolve continually."</b></sub>
+<p align="center">
+  <a href="https://github.com/nandkishorrathodk-art"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:nandkishorrathodk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<sub><b>"Building intelligent systems, one commit at a time."</b></sub>
 
 </div>
-

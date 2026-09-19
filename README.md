@@ -116,4 +116,4 @@ My flagship system is **SONIC A-SEA** (*Autonomous Self-Evolving Penetration Arc
 <sub><b>"The future of security belongs to autonomous architectures that think freely, act empirically, and evolve continually."</b></sub>
 
 </div>
-      
+

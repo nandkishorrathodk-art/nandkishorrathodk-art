@@ -70,6 +70,6 @@ SONIC is an ongoing project exploring how an AI system can work with a computer 
 
 I’m happy to connect with people working on AI systems, developer tools, computer-use agents, and full-stack engineering.
 
-- **LinkedIn:** [nandkishorrathodk](https://linkedin.com/in/nandkishorrathodk)
+- **LinkedIn:** [nandkishorrathodk](https://www.linkedin.com/in/nandkishor-rathod0/)
 - **Email:** [nandkishorrathodk@gmail.com](mailto:nandkishorrathodk@gmail.com)
 - **GitHub:** [@nandkishorrathodk-art](https://github.com/nandkishorrathodk-art)
